@@ -1,0 +1,4 @@
+name: PaperEdu
+version: '1.0-SNAPSHOT'
+main: org.test.paperedu.PaperEdu
+api-version: '1.20'
